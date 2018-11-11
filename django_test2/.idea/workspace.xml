@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c446e3a-acc2-40f4-99c6-4819e98fcafb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Filter/OCR_times.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Filter/Round_iteration_number.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Filter/baidu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Filter/endName.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Filter/filter_file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Filter/search.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cwd_test/endswith.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_deal/deal_txt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_deal/testOCR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../新建文本文档 - 副本 (2).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../新建文本文档 - 副本 (3).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../新建文本文档 - 副本 (4).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../新建文本文档 - 副本 (5).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../新建文本文档 - 副本.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../新建文本文档.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="2c446e3a-acc2-40f4-99c6-4819e98fcafb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
